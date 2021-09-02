@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abul Wahid Noor</h1>
-<h3 align="center">A passionate android developer</h3>
+<h3 align="center">Passionate android developer</h3>
 
 <img width="40%" align="right" src="https://github.com/abdulvvahid/abdulvvahid/blob/main/code.gif" />
-### <div align="center">
+
 <br/>
 
-- 🎒 I graduated from Istanbul University Computer Engineering..  
+- 🎒 I'm Graduated from Istanbul University Computer Engineering.
 
 
 - 🤔 I'm interested in Android App Development.   
