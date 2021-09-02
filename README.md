@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abul Wahid Noor</h1>
 <h3 align="center">A passionate android developer</h3>
 
