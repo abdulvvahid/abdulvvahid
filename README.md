@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🎒 I'm Graduated from Istanbul University Computer Engineering.
+- 🎒 I graduated from Istanbul University Computer Engineering.
 
 
 - 🤔 I'm interested in Android App Development.   
